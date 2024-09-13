@@ -14,8 +14,7 @@
 
 ## 下载
 
-<a href="https://raw.githubusercontent.com/suiyun39/pac-auto-gen/master/pac.txt" download>pac.txt</a>
-
+[ download](https://raw.githubusercontent.com/sclsyin/auto-update-pac/master/pac.txt)
 ## 感谢
 
 - [gfwlist](https://github.com/gfwlist/gfwlist)
